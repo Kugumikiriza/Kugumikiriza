@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kugumikiriza
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning and using Flutter for Mobile app development
-- I am proficient in Python-Django, HTML, CSS, Vue.js, and Java-Android Studio.
+- 🌱 I’m currently learning and using Flutter for Mobile app UI development
+- I am proficient in Python-Django, HTML, CSS, Vue.js, and Java-Android Studio for mobile app UIs.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 0755312952 or kugumikirizaandrew@gmail.com
 
